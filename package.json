@@ -1,0 +1,10 @@
+{
+  "name": "test-bot",
+  "version": "1.0.0",
+  "description": "Simple bot for testing mobile server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
